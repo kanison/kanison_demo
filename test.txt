@@ -7,3 +7,4 @@ zhangkan
 zhang
 kanison
 trunk ceshi
+zhangkan  git_ceshi2
